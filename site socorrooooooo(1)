@@ -39,56 +39,33 @@
       footer{
         <text-aling><center></center></text-aling>
       }
-</style>
-
+    </style>
 </head>
-
 <body>
+    <header>
+        <h1>Bem-vindo ao Meu Site</h1>
+        <nav>
+            <a href="#sobre">Sobre</a>
+            <a href="#servicos">Serviços</a>
+            <a href="#contato">Contato</a>
+        </nav>
+    </header>
 
-<header>
+    <section id="sobre">
+        <h2>Sobre Nós</h2>
+        <p>Este é um site de exemplo criado par
+    </section>
 
-<h1>Bem-vindo ao Meu Site</h1>
-
-<nav>
-
-<a href="#sobre">Sobre</a>
-
-<a href="#servicos">Serviços</a>
-
-<a href="#contato">Contato</a>
-
-</nav>
-
-</header>
-
-<section id="sobre">
-
-<h2>Sobre Nós</h2>
-
-<p>Este é um site de exemplo criado par
-
-</section>
-
-<section id="servicos">
-
-<h2>Serviços</h2>
-
-<ul>
-
-<li>Serviço 1</li>
-
-<li>Serviço 2</li>
-
-<li>Serviço 3</li>
-
-</ul>
-
-</section>
+    <section id="servicos">
+        <h2>Serviços</h2>
+        <ul>
+            <li>Serviço 1</li>
+            <li>Serviço 2</li>
+            <li>Serviço 3</li>
+        </ul>
+    </section>
 
 <section id="contato">
-
-<h2>Contato</h2>
-
-<p>Para entrar em contato, envie um e-m
-
-</section
+    <h2>Contato</h2>
+    <p>Para entrar em contato, envie um e-mail
+</section>
