@@ -65,17 +65,13 @@
         </ul>
     </section>
 
-<section id="contato">
-    <h2>Contato</h2>
-    <p>Para entrar em contato, envie um e-mail
-</section>
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Para entrar em contato, envie um e-mail
+    </section>
 
-<footer>
-
-<p>&copy; 2024 Meu Site. Todos os direi
-
-</footer>
-
+    <footer>
+        <p>&copy; 2024 Meu Site. Todos os direi
+    </footer>
 </body>
-
 </html>
